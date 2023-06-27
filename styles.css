@@ -1,0 +1,74 @@
+ body {
+      font-family: 'Comic Sans MS', cursive, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #000;
+      color: #ddd;
+    }
+    header {
+      background-color: #222;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background-color: #333;
+      color: #fff;
+      padding: 10px;
+    }
+    nav ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+    }
+    nav ul li {
+      display: inline-block;
+      margin-right: 10px;
+    }
+    nav ul li a {
+      color: #fff;
+      text-decoration: none;
+      padding: 5px;
+      cursor: pointer;
+    }
+    section {
+      padding: 20px;
+      background-color: #fff;
+      margin-bottom: 20px;
+      color: #333;
+}
+    footer {
+      background-color: #333;
+      color: #fff;
+      padding: 10px;
+      text-align: center;
+    }
+img{width:150px;
+    height:150px;}
+#div{font-family:Arial;}
+p{font-size:20px;}
+
+td#color{background: black;}
+td#color:hover{background:#333;}
+td#color:active{background: #c0c0c0;}
+td#image{
+    background:url(https://i.ibb.co/QQ2dXYt/download-fotor-bg-remover-20230627124916.png) 0px 0px black;}
+td#image:hover{
+    background:url(https://i.ibb.co/QQ2dXYt/download-fotor-bg-remover-20230627124916.png) 0px -50px #DC143C;}
+td#image:active{
+    background:url(https://i.ibb.co/QQ2dXYt/download-fotor-bg-remover-20230627124916.png) 0px -50px#7CFC00;}
+td{width:150px;
+height:50px;}
+div{
+      padding: 20px;
+      background-color: #333;
+      color: #333;
+    width:1850px;
+    }
+button{background:#333;
+color:white;
+border-radius: 12px;
+width:75px;
+height:50px;}
+  
